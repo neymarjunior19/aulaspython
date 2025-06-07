@@ -1,0 +1,13 @@
+def main():
+ nome = "Guilherme"
+ idade = 17
+ altura = 1.70
+ ismasculino = True
+ print("ola", nome)
+ print("idade", idade)
+ print("altura", altura)
+ print("masculino",ismasculino)
+
+
+ return 0
+main()
